@@ -36,7 +36,7 @@ Os componentes principais podem ser adicionados, removidos ou atualizados de for
 
 ### 3. Interface CLI simples
 
-A interação com o sistema prioriza a linha de comando, com comandos claros e organização funcional. A intenção é manter o uso fácil mesmo para quem não deseja depender de ambientes gráficos complexos.
+A interação com o sistema prioriza a linha de comando, com comandos claros e organização funcional. A intenção é manter o uso fácil mesmo para quem não deseja depender de ambientes gráficos pesados.
 
 ### 4. Foco em operação leve
 
@@ -72,25 +72,6 @@ caio-os/
 - Acesso root para instalação e configuração inicial;
 - Conhecimento básico de linha de comando;
 - Preferencialmente, ambiente de desenvolvimento ou VM para testes.
-
-## Instalação
-
-1. Preparar uma máquina ou ambiente virtual com Debian.
-2. Clonar o repositório do projeto:
-
-```bash
-git clone https://github.com/bazonecaiobazone-hash/caio-os.git
-cd caio-os
-```
-
-3. Revisar os scripts e módulos disponíveis.
-4. Executar a configuração inicial com os privilégios necessários.
-
-```bash
-sudo ./scripts/install.sh
-```
-
-5. Ajustar configurações locais conforme a necessidade do ambiente.
 
 ## Uso básico
 
@@ -147,6 +128,6 @@ Este projeto está sujeito à licença escolhida pelo mantenedor do repositório
 
 ## Observações finais
 
-CAIO-OS é uma proposta de sistema operacional modular, prático e enxuto, voltado para quem valoriza Debian, terminal e simplicidade. Seu foco principal é oferecer uma base sólida para uso com pouco atrito, mantendo a arquitetura fácil de compreender e expandir.
+CAIO-OS é uma proposta de sistema operacional modular, prático e enxuto, voltado para quem valoriza Debian, terminal e simplicidade. Seu foco principal é oferecer uma base sólida para uso com finalidade prática, leve e funcional.
 
 Se você deseja um sistema minimalista, funcional e personalizado, este projeto segue esse caminho.
