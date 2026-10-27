@@ -46,25 +46,6 @@ O projeto busca um sistema enxuto, com poucos recursos desnecessários, ideal pa
 
 Esse sistema foi criado por uma pessoa, com foco em autonomia e continuidade de desenvolvimento, mantendo a estrutura acessível e fácil de evoluir sem depender de grandes equipes.
 
-## Estrutura proposta
-
-```text
-caio-os/
-├── boot/
-├── config/
-├── modules/
-│   ├── base/
-│   ├── network/
-│   ├── storage/
-│   ├── security/
-│   └── ui/
-├── scripts/
-├── tools/
-├── docs/
-├── README.md
-└── LICENSE
-```
-
 ## Requisitos
 
 - Sistema baseado em Debian ou derivado;
