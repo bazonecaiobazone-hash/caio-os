@@ -54,22 +54,6 @@ Esse sistema foi criado por uma pessoa, com foco em autonomia e continuidade de 
 - Conhecimento básico de linha de comando;
 - Preferencialmente, ambiente de desenvolvimento ou VM para testes.
 
-## Uso básico
-
-O sistema pode ser usado diretamente pela linha de comando, com comandos simples para administração e automação.
-
-Exemplos:
-
-```bash
-caio status
-caio update
-caio modules list
-caio network check
-caio service restart ssh
-```
-
-As interfaces podem ser simples, organizadas em comandos e módulos, sem complexidade visual desnecessária.
-
 ## Módulos esperados
 
 - Sistema base
